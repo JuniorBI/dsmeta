@@ -6,10 +6,10 @@ function Header() {
     <header>
       <div className="dsmeta-logo-container">
         <img src={logo} alt="DSMeta" />
-        <h1>DSMeta</h1>
+        <h1>Meta Vendas</h1>
         <p>
           Desenvolvido por
-          <a href="https://github.com/JuniorBI">Antonio Junior</a>
+          <a href="https://github.com/JuniorBI"> Antonio Junior</a>
         </p>
       </div>
     </header>
